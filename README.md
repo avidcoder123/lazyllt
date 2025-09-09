@@ -10,6 +10,12 @@ LazyLLT is "lazy" in two ways:
 
 For more information, please view the documentation.
 
+## Install
+
+`pip install lazyllt`
+
+Requires Python 3.10 or higher.
+
 ## Example
 Example of getting the lift coefficient of a wing with an elliptical chord distribution and linear twist (washout):
 
